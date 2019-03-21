@@ -1,0 +1,13 @@
+INPUT(
+./tmp\obj_dir\main.o
+./tmp\obj_dir\qhandle_allocator.o
+./tmp\obj_dir\qio_service_pool.o
+./tmp\obj_dir\stpoolc++.o
+./tmp\obj_dir\qmyglobal.o
+./tmp\obj_dir\qsession.o
+./tmp\obj_dir\qmainserver.o
+./tmp\obj_dir\qcmd_pairs_dealer.o
+./tmp\obj_dir\CustomOptionDescription.o
+./tmp\obj_dir\OptionPrinter.o
+./tmp\obj_dir\qsession_clientside.o
+);
